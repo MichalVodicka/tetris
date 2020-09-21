@@ -6,7 +6,7 @@ import Row from './Row';
 class App extends Component {
   constructor(props) {
     super(props);
-    // preparation of jak se kurva rika tomu hracimu poli
+    // preparation of gamescreen
     let x = 15;
     let y = 15; 
     let game=[];
